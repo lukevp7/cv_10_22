@@ -1,1 +1,1 @@
-## In folders the are two other README shortly explaining the code
+## In folders there are two other README shortly explaining the code
